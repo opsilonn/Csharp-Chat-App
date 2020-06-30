@@ -1,0 +1,11 @@
+<chat>
+  <ID>f8d18879-d738-4213-92e7-98f772517b85</ID>
+  <name>New Chat made from the GUI</name>
+  <description>description !</description>
+  <dateCreation year="2020" month="1" day="12" hour="2" minute="21" second="59" />
+  <ID_members>
+    <ID_member>00000000-0000-0000-0000-000000000001</ID_member>
+  </ID_members>
+  <ID_messages>
+  </ID_messages>
+</chat>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+<profile>
+
+	<ID>00000000-0000-0000-0000-000000000002</ID>
+	<name>Jane Doe</name>
+	<password>qwerty</password>
+	<email>janeDoe@gmail.com</email>
+	<dateCreation year="2014" month="12" day="31" hour="16" minute="27" second="05"/>
+
+</profile>

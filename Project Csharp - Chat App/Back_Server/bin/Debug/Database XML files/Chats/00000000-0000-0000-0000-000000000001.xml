@@ -1,0 +1,18 @@
+<chat>
+  <ID>00000000-0000-0000-0000-000000000001</ID>
+  <name>Surprise Birthday</name>
+  <description>Don't tell John Doe !</description>
+  <dateCreation year="2020" month="1" day="5" hour="22" minute="39" second="48" />
+  <ID_members>
+    <ID_member>00000000-0000-0000-0000-000000000002</ID_member>
+    <ID_member>00000000-0000-0000-0000-000000000003</ID_member>
+    <ID_member>00000000-0000-0000-0000-000000000004</ID_member>
+  </ID_members>
+  <ID_messages>
+    <ID_message>00000000-0000-0000-0000-000000000013</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000014</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000015</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000016</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000017</ID_message>
+  </ID_messages>
+</chat>

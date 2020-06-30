@@ -1,0 +1,17 @@
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\bin\Debug\Front_WindowsForm.exe.config
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\bin\Debug\Front_WindowsForm.exe
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\bin\Debug\Front_WindowsForm.pdb
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\bin\Debug\Back_Communication.dll
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\bin\Debug\Back_Communication.pdb
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\bin\Debug\Back_Communication.dll.config
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\obj\Debug\Front_WindowsForm.csprojAssemblyReference.cache
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\obj\Debug\Front_WindowsForm.Properties.Resources.resources
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\obj\Debug\Front_WindowsForm.csproj.GenerateResource.cache
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\obj\Debug\Front_WindowsForm.csproj.CopyComplete
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\obj\Debug\Front_WindowsForm.exe
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\obj\Debug\Front_WindowsForm.pdb
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\obj\Debug\Front_WindowsForm.FormConnection.resources
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\obj\Debug\Front_WindowsForm.FormConnected.resources
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\obj\Debug\Front_WindowsForm.FormInviteMember.resources
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\obj\Debug\Front_WindowsForm.FormNewStructure.resources
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Front_WindowsForm\obj\Debug\Front_WindowsForm.FormNewMessage.resources

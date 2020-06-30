@@ -1,0 +1,13 @@
+<topic>
+  <ID>465d64eb-5b49-43ae-bb11-5720d7466187</ID>
+  <name>new Topic</name>
+  <description>456</description>
+  <ID_creator>00000000-0000-0000-0000-000000000004</ID_creator>
+  <dateCreation year="2020" month="1" day="6" hour="15" minute="2" second="12" />
+  <ID_members>
+    <ID_member>00000000-0000-0000-0000-000000000004</ID_member>
+  </ID_members>
+  <ID_messages>
+    <ID_message>78ca3127-fc4b-4ed3-abea-8dc65195a69a</ID_message>
+  </ID_messages>
+</topic>

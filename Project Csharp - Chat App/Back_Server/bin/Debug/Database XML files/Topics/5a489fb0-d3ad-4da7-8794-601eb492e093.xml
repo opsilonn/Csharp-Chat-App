@@ -1,0 +1,15 @@
+<topic>
+  <ID>5a489fb0-d3ad-4da7-8794-601eb492e093</ID>
+  <name>New Topic by GUI</name>
+  <description>this Topic has been created with the GUI !</description>
+  <ID_creator>00000000-0000-0000-0000-000000000004</ID_creator>
+  <dateCreation year="2020" month="1" day="12" hour="2" minute="6" second="12" />
+  <ID_members>
+    <ID_member>00000000-0000-0000-0000-000000000004</ID_member>
+  </ID_members>
+  <ID_messages>
+    <ID_message>de01940e-de21-4ead-94f9-07d560c130b3</ID_message>
+    <ID_message>9ed82553-ea60-425e-af3a-5b0a0558e39e</ID_message>
+    <ID_message>97ee0967-caec-41f8-b88f-37f4d605ec9b</ID_message>
+  </ID_messages>
+</topic>

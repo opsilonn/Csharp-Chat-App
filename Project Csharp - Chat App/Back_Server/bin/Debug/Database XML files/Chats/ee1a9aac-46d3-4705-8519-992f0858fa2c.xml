@@ -1,0 +1,11 @@
+<chat>
+  <ID>ee1a9aac-46d3-4705-8519-992f0858fa2c</ID>
+  <name>this is a Chat</name>
+  <description>this is a description</description>
+  <dateCreation year="2020" month="1" day="12" hour="14" minute="50" second="28" />
+  <ID_members>
+    <ID_member>01601345-2821-460d-986a-30ba9a59888c</ID_member>
+  </ID_members>
+  <ID_messages>
+  </ID_messages>
+</chat>

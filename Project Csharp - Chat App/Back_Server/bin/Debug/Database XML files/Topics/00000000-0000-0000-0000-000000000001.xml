@@ -1,0 +1,25 @@
+<topic>
+  <ID>00000000-0000-0000-0000-000000000001</ID>
+  <name>Cereal or Milk ?</name>
+  <description>Which one should I put first ? Milk, or Cereals ?</description>
+  <ID_creator>00000000-0000-0000-0000-000000000001</ID_creator>
+  <dateCreation year="2019" month="11" day="23" hour="17" minute="7" second="52" />
+  <ID_members>
+    <ID_member>00000000-0000-0000-0000-000000000001</ID_member>
+    <ID_member>00000000-0000-0000-0000-000000000002</ID_member>
+  </ID_members>
+  <ID_messages>
+    <ID_message>00000000-0000-0000-0000-000000000001</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000002</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000003</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000004</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000005</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000006</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000007</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000008</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000009</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000010</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000011</ID_message>
+    <ID_message>00000000-0000-0000-0000-000000000012</ID_message>
+  </ID_messages>
+</topic>

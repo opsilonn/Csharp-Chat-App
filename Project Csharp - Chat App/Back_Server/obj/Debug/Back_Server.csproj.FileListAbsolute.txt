@@ -1,0 +1,10 @@
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Back_Server\bin\Debug\Back_Server.exe.config
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Back_Server\bin\Debug\Back_Server.exe
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Back_Server\bin\Debug\Back_Server.pdb
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Back_Server\bin\Debug\Back_Communication.dll
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Back_Server\bin\Debug\Back_Communication.pdb
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Back_Server\bin\Debug\Back_Communication.dll.config
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Back_Server\obj\Debug\Back_Server.csprojAssemblyReference.cache
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Back_Server\obj\Debug\Back_Server.csproj.CopyComplete
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Back_Server\obj\Debug\Back_Server.exe
+C:\Users\Hugues\Desktop\Project Csharp - Chat App\Back_Server\obj\Debug\Back_Server.pdb

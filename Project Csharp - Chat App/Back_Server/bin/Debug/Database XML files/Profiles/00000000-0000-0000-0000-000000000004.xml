@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+<profile>
+
+	<ID>00000000-0000-0000-0000-000000000004</ID>
+	<name>123</name>
+	<password>123</password>
+	<email>123@efrei.net</email>
+	<dateCreation year="2019" month="11" day="23" hour="17" minute="07" second="52"/>
+
+</profile>
